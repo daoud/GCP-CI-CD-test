@@ -1,0 +1,14 @@
+werkzeug==2.2.3
+gunicorn==20.1.0
+pandas
+pyarrow
+pytest
+flask==2.2.3
+google-cloud-bigquery==3.11.4
+google-auth==2.20.0
+google-auth-oauthlib==0.4.6
+google-auth-httplib2==0.1.0
+
+
+
+
