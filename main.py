@@ -6,6 +6,7 @@ from flask import Flask
 from flask import request
 import os 
 
+
 app = Flask(__name__)
 client = bigquery.Client()
 
